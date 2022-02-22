@@ -1,0 +1,2 @@
+- CI/CD continuos integration/continuos deployment
+- yml => yaml => yet another markup language => yaml aint markup language
